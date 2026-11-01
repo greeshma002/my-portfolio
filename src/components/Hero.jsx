@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { ArrowUpRight, Mail, Phone, MapPin } from "lucide-react";
 import { personalInfo } from "../data/portfolioData";
-import profilePic from "../assets/greeshma.jpeg"
+import profilePic from "../assets/Greeshma.jpeg"
 
 export default function Hero() {
   return (
