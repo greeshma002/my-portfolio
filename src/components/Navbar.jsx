@@ -11,7 +11,7 @@ export default function Navbar() {
   { name: "Skills", href: "#skills" },
   { name: "Projects", href: "#projects" },
   { name: "Education", href: "#education" },
-  { name: "Beyond the Code", href: "#beyond" },
+  // { name: "Beyond the Code", href: "#beyond" },
   { name: "Contact", href: "#contact" },
 ];
   return (
